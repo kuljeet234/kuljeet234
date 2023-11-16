@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kuljeet Singh Shekhawat</h1>
 <h3 align="center">A passionate Machine learning enthusiast from India</h3>
 
-<img align="right" alt="coding" width="300" src="![image](https://github.com/kuljeet234/kuljeet234/assets/125139611/79a8121a-51e9-47f7-ae03-c91e2aad1162)"
+<img align="right" alt="coding" width="300" src="![image](https://github.com/kuljeet234/kuljeet234/assets/125139611/79a8121a-51e9-47f7-ae03-c91e2aad1162)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuljeet234&label=Profile%20views&color=0e75b6&style=flat" alt="kuljeet234" /> </p>
 
