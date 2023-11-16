@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **LLMs and DSA**
+- 🌱 I’m currently learning **In depth about various ML models and DSA**
 
 - 💬 Ask me about **supervised learning,Unsupervised learning, Neural networks, CNNs,C,C++,python**
 
