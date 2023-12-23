@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently learning **In depth about various ML models and DSA**
+- 🌱 I’m currently learning **In depth about Machine learning algorithms**
 
-- 💬 Ask me about **supervised learning,Unsupervised learning, Neural networks, CNNs,C,C++,python**
+- 💬 Ask me about **supervised learning,Unsupervised learning, Neural networks, CNNs,C,C++,python,arduino,rdbms**
 
 - 📫 How to reach me **kuljeet.keys@gmail.com**
 
